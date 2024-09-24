@@ -4,7 +4,11 @@
 - Phone: (613) 853-9585
 - Email: cavadaMarc@gmail.com
 - LinkedIn: [Marc Cavada LinkedIn](http://www.linkedin.com/in/marc-cavada)
-- Portfolio: [kentoverse.com](http://www.kentoverse.com)
+
+ ##  Portfolios
+- RAG Data Analyis Tool: [kentoverse.com](http://www.kentoverse.com)
+- NextJS CMS Web : [maap.one](http://www.maap.one)
+- Chat App (React-Expo On-Dev) : [botski.info](http://www.botski.info)
 
 ---
 
