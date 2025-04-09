@@ -2,13 +2,76 @@
 
 
 ### 📫 Let’s Connect
-
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marc-cavada)
-- 🌐 [Portfolio](https://kentoverse.com)
 - 📧 cavadaMarc@gmail.com
 
 ### 👋 About Me
-Hi, I'm **Marc Cavada**, a full-stack developer and cloud systems architect with over 15 years of cross-domain experience spanning civil engineering, digital transformation, enterprise web systems, and GenAI-powered solutions. I specialize in building scalable, efficient, and user-friendly applications using modern technologies like React, Next.js, Python, GCP, AWS, and Adobe Experience Manager (AEM).
+Hi, I'm **Marc Cavada**, a full-stack and cloud native developer with over 15 years of cross-domain experience spanning civil engineering, digital transformation, enterprise web systems, and GenAI-powered solutions. I specialize in building scalable, efficient, and user-friendly applications using modern technologies like React, Next.js, Python, GCP, AWS, and Adobe Experience Manager (AEM).
+
+
+
+🔍 Introspection Prototypes App – Portfolio Ecosystem
+
+Still in development — serving as a sandbox for experimentation, learning, and narrative design.
+
+A prototype playground — it’s a living design system with a strong theoretical backbone, technical scalability, and creative soul. Each module contributes to a shared mission: to deepen how we define, design, and dialogue with AI around the human experience.
+
+⸻
+
+🌐 Future State
+
+Project Hub & Narrative Gateway
+The central launchpad for blogs, documentation, demos, and storytelling frameworks that unify the app ecosystem.
+
+⸻
+
+🗣️ Minimalist Chat Interface and Empathic Voice
+
+Tech: React, AWS Amplify, Lambda, Hume LLM API
+Built with Hume’s emotional LLM APIs to recognize vocal tone and respond empathetically. Uses AWS Lambda + Cognito via Amplify for secure and authenticated GenAI interactions.
+
+⸻
+
+🧩 UI Component Design Library
+
+Tech: React, Expo, Tailwind, Module Federation, Web Components
+A reusable cross-platform component system used in both web and mobile apps. Deployed as a remote module using Webpack Module Federation and designed for consumption across projects.
+
+⸻
+
+🧠 RAG Data Visualization and Testing
+
+Tech: IBM RAG, FastAPI, Python, ChromaDB
+A backend tool that visualizes Retrieval-Augmented Generation logic and enhances prompt architecture through real-time context tracing and embeddings.
+
+⸻
+
+🎨 UI/UX Design & High-Level Architecture (Figma)
+
+Tooling: Figma, Tokens Studio
+Design-first documentation of flows, micro-interactions, and interface consistency across apps. Prioritizes cognitive accessibility and emotional UX.
+
+⸻
+
+📖 App of Creative Inspiration
+
+Platform: Markdown/MDX CMS, Headless Static Site
+A curated storytelling layer that generates a corpus of emotionally nuanced micro-stories. Serves both as human-facing narrative content and training input for GenAI alignment.
+
+⸻
+
+🧠 Ecosystem Highlights
+	•	🧩 Modular Mono-Repo powered by Turborepo/Nx
+	•	🔐 AWS Amplify for secure API proxy + Cognito auth
+	•	🧠 Design System powered by Tailwind + token-based theming
+	•	📦 Component Sharing via Module Federation + Web Components
+	•	🧬 Data Layer using ChromaDB and FastAPI for RAG experimentation
+
+🚀 Designed to inspire, inform, and evolve — a system for prototyping meaning and human-AI dialogue.
+
+
+
+ 
 
 ---
 
