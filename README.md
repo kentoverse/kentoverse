@@ -3,7 +3,71 @@
 ## Contact Information:
 - Phone: (613) 853-9585
 - Email: cavadaMarc@gmail.com
-- LinkedIn: [Marc Cavada LinkedIn](http://www.linkedin.com/in/marc-cavada)
+- LinkedIn## 📄 GitHub README: Marc Cavada – Full-Stack & AEM Developer with GenAI & Cloud Expertise
+
+### 👋 About Me
+Hi, I'm **Marc Cavada**, a full-stack developer and cloud systems architect with over 15 years of cross-domain experience spanning civil engineering, digital transformation, enterprise web systems, and GenAI-powered solutions. I specialize in building scalable, efficient, and user-friendly applications using modern technologies like React, Next.js, Python, GCP, AWS, and Adobe Experience Manager (AEM).
+
+---
+
+### 🔧 Featured Projects
+
+#### 🧠 BCBP Gen.AI RAG System (2024)
+**Role:** Project Lead & RAG System Developer  
+**Tech:** GCP (Cloud Run, Artifact Registry), Docker, Python, ChatGPT, Next.js, Tailwind, WordPress, MongoDB, Jupyter, Amplify, Clerk
+
+- Designed and led the development of a Retrieval-Augmented Generation (RAG) content engine supporting over 33 community groups globally.
+- Built secure, scalable CI/CD pipelines using Google Cloud SDK, IAM, Cloud Run, and Cloud Build.
+- Developed a prototype GenAI chatbot with tailored conversational flows and contextual awareness.
+- Streamlined prototyping via agile + Kanban, integrating developer-designer pairing for rapid iteration.
+- Deployed CMS-backed site on AWS Lambda via Docker & Kubernetes for global scale.
+
+---
+
+#### 🎨 Accenture Song Gen.AI Marketing Apps (2023)
+**Role:** UI/UX Engineer
+**Tech:** React, Redux, Amplify (Cognito + Lambda), Material-UI, Framer Motion, AEM, Figma, FastAPI, MongoDB, GCP
+
+- Transitioned 5 GenAI-driven prototypes into production-grade marketing apps.
+- Delivered Micro-Frontend architecture with reusable UI components and state-optimized logic.
+- Integrated AWS Amplify for authentication (Cognito) and secure API proxying via Lambda.
+- Developed custom AEM Page Templates for dynamic media integration.
+- Recognized globally at Accenture CEO Shareholder Meeting for delivery excellence.
+
+---
+
+#### 🏦 TD EasyWeb & Mobile App Infrastructure Modernization (2022)
+**Role:** Frontend Development & AEM Specialist
+**Tech:** AEM, Visio, React, GraphQL, Microfrontend Architecture, Event-driven Systems
+
+- Co-designed an API Gateway aligned with TD’s modernization initiative supporting mobile and web.
+- Delivered DAM implementation using AEM workflows, AI tagging, and role-based access.
+- Integrated BrandMarketing DAM with Open Banking-compliant security.
+- Improved asset searchability, automated publishing, and optimized cloud storage use.
+
+---
+
+### 🛠️ Additional Highlights
+- **Sobeys Loyalty Scene+ Card**: Led architecture & workshop sessions with Salesforce Marketing Cloud
+- **KeyBank Chatbot**: Delivered secure GraphQL-powered backend & NLP-enhanced chatbot via Node.js and Google NLP
+- **EDC ML Loan Form Analysis**: Delivered ML pipeline for handwritten loan approvals using ELK Stack
+- **Canadian Tire E-commerce Reusability Refactor**: Modernized Java-Spring-AEM architecture
+- **IRCC Citizenship Portal**: Enhanced accessibility with custom A11y testing tools
+
+---
+
+### 📚 Certifications & Skills
+- **Google Cloud Platform (ACE)** | **Adobe AEM Business Practitioner** | **SAP OpenText Consultant**
+- Python, Node.js, React/Next.js, Spring Boot, GraphQL, MongoDB, AWS Lambda, CI/CD, OAuth2, Docker, GitHub Actions
+
+---
+
+### 📫 Let’s Connect
+- 🌐 Website: [kentoverse.com](https://kentoverse.com)
+- 🔗 LinkedIn: [linkedin.com/in/marc-cavada](https://linkedin.com/in/marc-cavada)
+- 📧 Email: cavadaMarc@gmail.com
+
+: [Marc Cavada LinkedIn](http://www.linkedin.com/in/marc-cavada)
 
  ##  Portfolios
 - RAG Data Analyis Tool: [kentoverse.com](http://www.kentoverse.com)
