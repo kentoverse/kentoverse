@@ -1,9 +1,11 @@
 # Marc Cavada
 
-## Contact Information:
-- Phone: (613) 853-9585
-- Email: cavadaMarc@gmail.com
-- LinkedIn## 📄 GitHub README: Marc Cavada – Full-Stack & AEM Developer with GenAI & Cloud Expertise
+
+### 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marc-cavada)
+- 🌐 [Portfolio](https://kentoverse.com)
+- 📧 cavadaMarc@gmail.com
 
 ### 👋 About Me
 Hi, I'm **Marc Cavada**, a full-stack developer and cloud systems architect with over 15 years of cross-domain experience spanning civil engineering, digital transformation, enterprise web systems, and GenAI-powered solutions. I specialize in building scalable, efficient, and user-friendly applications using modern technologies like React, Next.js, Python, GCP, AWS, and Adobe Experience Manager (AEM).
