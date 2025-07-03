@@ -1,5 +1,5 @@
 ## 👋 Marc Cavada
-🔗 [LinkedIn](https://linkedin.com/in/marc-cavada) • 📞 613-853-9585 • 📧 cavadaMarc@gmail.com • 🌐 [kentoverse.com](https://kentoverse.com)
+🔗 [LinkedIn](https://linkedin.com/in/marc-cavada) • 📞 613-853-9585 • 📧 cavadaMarc@gmail.com • 🌐 [kentoverse.com](https://emotional-ai.vercel.app/)
 
 > I’ve been a web developer since 2008, starting with WordPress, PHP, and jQuery before transitioning into object-oriented programming with Java and C#. Over time, I’ve expanded into modern full-stack development using frameworks like MERN, Next.js, and cloud-native serverless architectures. I focus on building scalable, efficient applications with intuitive user experiences, continuously refining my skills to stay current with the latest tools and technologies that enhance performance and streamline development workflows.
 
@@ -10,10 +10,10 @@
 **Introspection** is a modular ecosystem designed to test and refine emotionally aware user experiences using storytelling, component systems, and LLM-powered AI. It explores how we define, design, and dialogue with machines about the human experience.
 
 ### 🔗 Live Modules
-- 🌐 [Future State – Project Hub](https://kentoverse.com)
-- 🗣️ [Chat + Empathic Voice](https://kentoverse.com) — Uses Hume LLM for voice emotion modeling
-- 🧩 [UI Component Library (React/Expo)](https://kentoverse.com) — Cross-platform design system
-- 🧠 [RAG Data Visualizer & Backend Interface](https://kentoverse.com) — IBM RAG + ChromaDB
+- 🌐 [Future State – Project Hub](https://emotional-ai.vercel.app/)
+- 🗣️ [Chat + Empathic Voice](https://emotional-ai.vercel.app/) — Uses Hume LLM for voice emotion modeling
+- 🧩 [UI Component Library (React/Expo)](https://emotional-ai.vercel.app/) — Cross-platform design system
+- 🧠 [RAG Data Visualizer & Backend Interface](https://emotional-ai.vercel.app/) — IBM RAG + ChromaDB
 - 🎨 [Figma UX & Flow Design](https://www.figma.com/design/rpOWEpy2kFjHkXuRE7Ftn9/Introspection?node-id=0-1&t=nHN4M23Hfsi36QgQ-1)
 - 📖 [Creative Inspiration Micro-Stories](https://migwapa.com) — Source layer for emotional storytelling
 
