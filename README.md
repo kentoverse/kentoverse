@@ -1,113 +1,148 @@
-## 👋 Marc Cavada
-🔗 [LinkedIn](https://linkedin.com/in/marc-cavada) • 📞 613-853-9585 • 📧 cavadaMarc@gmail.com • 🌐 [kentoverse.com](https://emotional-ai.vercel.app/)
 
-> I’ve been a web developer since 2008, starting with WordPress, PHP, and jQuery before transitioning into object-oriented programming with Java and C#. Over time, I’ve expanded into modern full-stack development using frameworks like MERN, Next.js, and cloud-native serverless architectures. I focus on building scalable, efficient applications with intuitive user experiences, continuously refining my skills to stay current with the latest tools and technologies that enhance performance and streamline development workflows.
+⸻
 
+👋 Marc Cavada
 
-## 🧠 Featured Portfolio – *Introspection Prototypes App*
-> *A cross-platform, emotionally intelligent app system built to explore AI, narrative design, and human behavior.*
+Full-Stack Engineer • AI Systems Designer • Product Modernization Specialist
 
-**Introspection** is a modular ecosystem designed to test and refine emotionally aware user experiences using storytelling, component systems, and LLM-powered AI. It explores how we define, design, and dialogue with machines about the human experience.
+🔗 LinkedIn: https://linkedin.com/in/marc-cavada
+🌐 Portfolio: https://kentoverse.com
+📧 Email: cavadaMarc@gmail.com
+📞 Toronto / Ottawa — 613-853-9585
+👨‍💻 GitHub: https://github.com/kentoverse
 
-### 🔗 Live Modules
-- 🌐 [Future State – Project Hub](https://emotional-ai.vercel.app/)
-- 🗣️ [Chat + Empathic Voice](https://emotional-ai.vercel.app/) — Uses Hume LLM for voice emotion modeling
-- 🧩 [UI Component Library (React/Expo)](https://emotional-ai.vercel.app/) — Cross-platform design system
-- 🧠 [RAG Data Visualizer & Backend Interface](https://emotional-ai.vercel.app/) — IBM RAG + ChromaDB
-- 🎨 [Figma UX & Flow Design](https://www.figma.com/design/rpOWEpy2kFjHkXuRE7Ftn9/Introspection?node-id=0-1&t=nHN4M23Hfsi36QgQ-1)
-- 📖 [Creative Inspiration Micro-Stories](https://migwapa.com) — Source layer for emotional storytelling
+⸻
 
-**Ecosystem Highlights**
-- Monorepo via Turborepo
-- AWS Amplify + Cognito secured APIs
-- Cross-shared UI via Web Components + Module Federation
-- Cognitive accessibility design built with Figma Tokens Studio
+🏗️ Summary
 
----
+I am a full-stack engineer and systems designer specializing in scalable application architectures, cloud-native deployments, and AI-augmented user experiences. My work spans React, React Native, Python AI backends, serverless infrastructures, and enterprise-grade modernization initiatives.
 
-> 🚀 *This app is a living system — evolving through experimentation, empathy, and engineering.*
+I focus on building modular, reusable product ecosystems, transforming high-complexity processes into maintainable platforms with strong performance, automation, and long-term extensibility.
 
----
+My professional experience includes enterprise banking, government, retail, global non-profits, and GenAI product engineering.
 
-### 📫 Connect with Me
-- 🌐 [kentoverse.com](https://kentoverse.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/marc-cavada)
-- 🧠 [GitHub Portfolio](https://github.com/kentoverse)
+⸻
 
----
+🔥 BotWorks Project — Technical Overview
 
-## 🛠️ Work Experience Highlights
+BotWorks is an engineering initiative exploring structured intent modeling, narrative inputs, and AI-orchestrated task generation. It is built as a modular ecosystem composed of interoperable clients, servers, and automation tools.
 
-### Bot Digital Works | Toronto / Philippines  
-**Role:** Project Lead & RAG System Developer (Jan 2024 – Jan 2025)
+⸻
 
-- Led Gen.AI modernization for BCBP International, including CI/CD automation with GCP and Cloud Run.
-- Developed a prototype RAG system to deliver personalized content using IBM RAG, ChromaDB, and FastAPI.
-- Created an empathic AI-powered chat engine using Hume APIs.
-- Scaled a multilingual WordPress CMS deployed via AWS Lambda and Docker to support 33 global chapters.
+🟦 1. BotWorks Expo App (React Native cross-platform client)
 
-**Key Tech:** Python, Next.js, React, Expo, AWS Amplify, Docker, Cloud Run, ChatGPT LLM, RAG-Chroma, GCP, TypeScript
+A mobile interface designed to convert user intent into structured tasks using three computed dimensions:
 
----
+Connection
 
-### Accenture Song Engineering | Toronto, Canada  
-**Role:** UI/UX Engineer – GenAI Productization (Mar 2023 – Oct 2023)
+Defines contextual anchors (people, projects, goals, emotional drivers).
 
-- Converted 5 Gen.AI marketing prototypes into polished apps showcased at the CEO shareholder meeting.
-- Integrated AWS Amplify + Cognito to secure LLM requests; used React + Framer Motion for fluid UIs.
-- Standardized reusable design tokens and components across apps and Figma exports.
+Intensity
 
-**Key Tech:** React, Redux, Material-UI, Framer Motion, Python, GCP, AWS, Amplify, AEM, Figma
+Quantifies urgency, cognitive load, and motivational energy.
 
----
+Materialization
 
-### TD Bank’s EasyWeb & Mobile App Modernization  
-**Role:** Frontend & AEM Specialist (May 2022 – Nov 2022)
+Determines output type:
+task • note • plan • story-beat • subgoal • reflection
 
-- Co-designed a microfrontend API Gateway for TD’s modernization initiative.
-- Delivered a scalable DAM design in AEM integrating BrandMarketing systems.
-- Automated publishing with AEM workflows and AI-powered tagging for storage savings.
+Core Features
+	•	Neon-driven JSON design system
+	•	Cross-platform IconCore SVG architecture
+	•	Slide-based narrative UI
+	•	Theme-aware components for mobile & web
+	•	Future integration with MCP multi-agent AI backend
 
-**Key Tech:** AEM, GraphQL, Visio, Tailwind, Microfrontend Architecture
+⸻
 
----
+🟧 2. BotWorks MCP Server (AI Orchestration Layer)
 
-### Sobeys Loyalty Rewards  
-**Role:** Lead Technical Analyst (Jun 2022 – Aug 2022)
-- Led system analysis and Salesforce Marketing Cloud integration for Scene+ rewards.
-- Created custom accessibility testing tools and CI-friendly test automation.
+A FastAPI server that processes narrative inputs and converts them into structured task objects.
 
----
+Capabilities
+	•	Multi-agent orchestration (manager/worker)
+	•	RAG pipelines using ChromaDB or IBM RAG
+	•	Vector similarity search
+	•	Scoring for Connection, Intensity, Materialization
+	•	API endpoints supporting Expo, Telegram bot, and static sites
+	•	Containerized deployment (GCP / Azure)
 
-### IRCC – Citizenship Web App Accessibility  
-**Role:** Application Developer (Jan 2020 – May 2020)
-- Reduced tech debt and created accessibility tools for WCAG 2.1 compliance.
-- Designed a facial recognition login for secure exam processing.
+⸻
 
----
+🟩 3. Gmail → Telegram Automation Bot
 
-### KeyBank – AI Chatbot Implementation  
-**Role:** Backend API Developer (Oct 2021 – Dec 2021)
-- Implemented GraphQL APIs and Google NLP for more responsive chatbot UX.
+A lightweight automation module enabling:
+	•	Extracting email content using Gmail API
+	•	NLP summarization and intent classification
+	•	Routing actionable content to Telegram
+	•	Triggering MCP workflows
+	•	Deployment via Docker containers on GCP
 
----
+⸻
 
-### Canadian Tire – E-Commerce Reusability Initiative  
-**Role:** AEM Dev / Backend Analyst (2019 – 2021)
-- Re-architected legacy backend into headless microservices.
+🟫 4. Static Site Builder Projects
 
----
+Practical client-facing deployments.
 
-### BusyQA, Core Advisory, Radical Ads  
-**Roles:** Full Stack Developer / Digital Business Lead (2017 – 2019)
-- Built a lifecycle admin dashboard, unified real estate system, and custom PHP/Java-EE apps for small businesses.
+Kabalen Toronto
+	•	Responsive static HTML/CSS site
+	•	Modular JS slideshow
+	•	Optimized asset layout
 
----
+BCBP International Modernization
+	•	WordPress containerized for Cloud Run
+	•	Cloud SQL + VPC Secure Connectivity
+	•	GitHub Actions CI/CD
+	•	Development → Stage → Production environment framework
 
-## 📚 Education & Certifications
-- **BS in Civil Engineering** – University of San Carlos (2002)
-- Humber College – Software Dev (C#), Web Dev (PHP)
-- Certified: Adobe AEM, SAP OpenText CMS, GCP ACE, AODA Accessibility
+⸻
 
----
+🛠️ Technical Skills
 
+Frontend: React, React Native, Expo, Next.js, Angular, TypeScript
+Backend: Node.js, Express, Python, FastAPI, GraphQL
+AI / Data: ChatGPT API, Hume Voice Models, ChromaDB, IBM RAG
+Cloud: GCP (Cloud Run, SQL, VPC, IAM), AWS Amplify, Lambda
+DevOps: Docker, GitHub Actions, Turborepo
+CMS: Adobe AEM, WordPress Headless, OpenText CMS
+
+⸻
+
+💼 Career Experience (Condensed)
+
+Bot Digital Works – Project Lead (2024–2025)
+	•	Developed MCP-based multi-agent backend
+	•	Built RAG system for personalized content flows
+	•	Modernized BCBP infrastructure on Cloud Run
+	•	Created cross-platform Expo UI system
+
+Accenture Song – UI/UX Engineer (2023)
+	•	Productized GenAI concepts
+	•	Built secure Cognito + Amplify pipelines
+	•	Designed reusable component/token systems
+
+TD Bank – AEM Specialist / Frontend (2022)
+	•	Built microfrontend gateway
+	•	Engineered AEM DAM workflows
+	•	Implemented AI-driven asset tagging
+
+KeyBank – AI Chatbot Backend (2021)
+	•	Created GraphQL API wrappers
+	•	Integrated Google NLP for higher intent accuracy
+
+IRCC – Accessibility Developer (2020)
+	•	Built automated WCAG compliance tools
+	•	Designed secure identity workflows
+
+⸻
+
+🎓 Education & Certifications
+	•	B.Sc. Civil Engineering — University of San Carlos
+	•	Humber College — Software Development
+	•	Certifications:
+	•	Adobe AEM
+	•	OpenText
+	•	Google Cloud ACE
+	•	AODA Accessibility
+
+⸻
