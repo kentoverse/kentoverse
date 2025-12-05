@@ -1,13 +1,15 @@
 ## 👋 Marc Cavada  
 **Full-Stack Engineer • AI Systems Designer • Product Modernization Specialist**
-
-🔗 LinkedIn: https://linkedin.com/in/marc-cavada  
-🌐 Portfolio: https://kentoverse.com  
-📧 Email: cavadaMarc@gmail.com  
-📞 Toronto / Ottawa — 613-853-9585  
-👨‍💻 GitHub: https://github.com/kentoverse  
-
+  
+[👨‍💻 Github: BotWorks Project ](https://github.com/BOT-Digital/BOTWorks-Project) 
+[🌐  Web: ProtoType View ](https://caipBotDigital.Works) 
+[ 🔗LinkedIn:  Marc-Cavada  ](https://linkedin.com/in/marc-cavada)  
 ---
+
+📧 Email: cavadaMarc@gmail.com  
+📞 Toronto / Ottawa — 613-853-9585
+
+
 
 ## 🏗️ Summary
 
@@ -18,6 +20,7 @@ I have led modernization initiatives across enterprise banking, government, reta
 ---
 
 # 🔥 BotWorks Project — Technical Overview
+ 
 
 BotWorks is a modular engineering ecosystem focused on structuring user intent, scoring narrative inputs, and generating actionable tasks using AI orchestration. It includes an Expo client, an MCP Server, and supporting automation tools.
 
