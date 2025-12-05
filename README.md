@@ -3,7 +3,7 @@
 
 ---
 ### [👨‍💻 Github: BotWorks Project ](https://github.com/BOT-Digital/BOTWorks-Project) 
-### [🌐  Web: ProtoType View ](https://caip.BotDigital.Works) 
+### [🌐  Web: ProtoType View ](https://capi.botdigital.works) 
 ### [ 🔗 LinkedIn:  Marc-Cavada  ](https://linkedin.com/in/marc-cavada)  
 ---
 📧 Email: cavadaMarc@gmail.com  
