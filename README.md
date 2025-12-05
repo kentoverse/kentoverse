@@ -1,15 +1,3 @@
-# 🌐 BotDigital Works — ChatGPT Project Dashboard & Technical README
-
-This document defines the full project structure for ChatGPT context routing, followed by the complete technical README for Marc Cavada and the BotWorks ecosystem.
-
----
-
-# 🧭 BOTDIGITAL WORKS — PROJECT CONTEXT MAP
-
----
-
-# 📘 TECHNICAL README — MARC CAVADA & BOTWORKS
-
 ## 👋 Marc Cavada  
 **Full-Stack Engineer • AI Systems Designer • Product Modernization Specialist**
 
