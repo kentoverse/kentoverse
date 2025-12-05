@@ -1,11 +1,11 @@
 ## 👋 Marc Cavada  
 **Full-Stack Engineer • AI Systems Designer • Product Modernization Specialist**
-  
-[👨‍💻 Github: BotWorks Project ](https://github.com/BOT-Digital/BOTWorks-Project) 
-[🌐  Web: ProtoType View ](https://caipBotDigital.Works) 
-[ 🔗LinkedIn:  Marc-Cavada  ](https://linkedin.com/in/marc-cavada)  
----
 
+---
+### [👨‍💻 Github: BotWorks Project ](https://github.com/BOT-Digital/BOTWorks-Project) 
+### [🌐  Web: ProtoType View ](https://caipBotDigital.Works) 
+### [ 🔗 LinkedIn:  Marc-Cavada  ](https://linkedin.com/in/marc-cavada)  
+---
 📧 Email: cavadaMarc@gmail.com  
 📞 Toronto / Ottawa — 613-853-9585
 
