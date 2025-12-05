@@ -1,148 +1,148 @@
+# 🌐 BotDigital Works — ChatGPT Project Dashboard & Technical README
 
-⸻
+This document defines the full project structure for ChatGPT context routing, followed by the complete technical README for Marc Cavada and the BotWorks ecosystem.
 
-👋 Marc Cavada
+---
 
-Full-Stack Engineer • AI Systems Designer • Product Modernization Specialist
+# 🧭 BOTDIGITAL WORKS — PROJECT CONTEXT MAP
 
-🔗 LinkedIn: https://linkedin.com/in/marc-cavada
-🌐 Portfolio: https://kentoverse.com
-📧 Email: cavadaMarc@gmail.com
-📞 Toronto / Ottawa — 613-853-9585
-👨‍💻 GitHub: https://github.com/kentoverse
+---
 
-⸻
+# 📘 TECHNICAL README — MARC CAVADA & BOTWORKS
 
-🏗️ Summary
+## 👋 Marc Cavada  
+**Full-Stack Engineer • AI Systems Designer • Product Modernization Specialist**
 
-I am a full-stack engineer and systems designer specializing in scalable application architectures, cloud-native deployments, and AI-augmented user experiences. My work spans React, React Native, Python AI backends, serverless infrastructures, and enterprise-grade modernization initiatives.
+🔗 LinkedIn: https://linkedin.com/in/marc-cavada  
+🌐 Portfolio: https://kentoverse.com  
+📧 Email: cavadaMarc@gmail.com  
+📞 Toronto / Ottawa — 613-853-9585  
+👨‍💻 GitHub: https://github.com/kentoverse  
 
-I focus on building modular, reusable product ecosystems, transforming high-complexity processes into maintainable platforms with strong performance, automation, and long-term extensibility.
+---
 
-My professional experience includes enterprise banking, government, retail, global non-profits, and GenAI product engineering.
+## 🏗️ Summary
 
-⸻
+I am a full-stack engineer and systems designer specializing in scalable application architectures, cloud-native deployments, and AI-augmented user experiences. My experience spans frontend engineering, backend APIs, DevOps pipelines, and intelligent UI/UX systems. I focus on modular design, performance, automation, and modern product engineering practices.
 
-🔥 BotWorks Project — Technical Overview
+I have led modernization initiatives across enterprise banking, government, retail, international organizations, and GenAI product labs.
 
-BotWorks is an engineering initiative exploring structured intent modeling, narrative inputs, and AI-orchestrated task generation. It is built as a modular ecosystem composed of interoperable clients, servers, and automation tools.
+---
 
-⸻
+# 🔥 BotWorks Project — Technical Overview
 
-🟦 1. BotWorks Expo App (React Native cross-platform client)
+BotWorks is a modular engineering ecosystem focused on structuring user intent, scoring narrative inputs, and generating actionable tasks using AI orchestration. It includes an Expo client, an MCP Server, and supporting automation tools.
 
-A mobile interface designed to convert user intent into structured tasks using three computed dimensions:
+---
 
-Connection
+## 🟦 1. BotWorks Expo App (React Native cross-platform client)
 
-Defines contextual anchors (people, projects, goals, emotional drivers).
+A mobile interface for converting natural-language inputs into structured tasks using:
 
-Intensity
+### **Connection**  
+Determines contextual anchors (people, goals, obligations, emotional drivers).
 
-Quantifies urgency, cognitive load, and motivational energy.
+### **Intensity**  
+Measures urgency, cognitive load, and motivational weight.
 
-Materialization
-
-Determines output type:
+### **Materialization**  
+Determines the output type:  
 task • note • plan • story-beat • subgoal • reflection
 
-Core Features
-	•	Neon-driven JSON design system
-	•	Cross-platform IconCore SVG architecture
-	•	Slide-based narrative UI
-	•	Theme-aware components for mobile & web
-	•	Future integration with MCP multi-agent AI backend
+### **Key Features**
+- Cross-platform UI component library  
+- Neon JSON design-system tokens  
+- IconCore SVG engine (RN + Web compatible)  
+- Slide-based narrative UI  
+- Planned integration with MCP backend  
 
-⸻
+---
 
-🟧 2. BotWorks MCP Server (AI Orchestration Layer)
+## 🟧 2. BotWorks MCP Server (AI backend)
 
-A FastAPI server that processes narrative inputs and converts them into structured task objects.
+A FastAPI-based AI orchestration system handling:
 
-Capabilities
-	•	Multi-agent orchestration (manager/worker)
-	•	RAG pipelines using ChromaDB or IBM RAG
-	•	Vector similarity search
-	•	Scoring for Connection, Intensity, Materialization
-	•	API endpoints supporting Expo, Telegram bot, and static sites
-	•	Containerized deployment (GCP / Azure)
+- Multi-agent workflows (manager + workers)  
+- Vector RAG pipelines (ChromaDB, IBM RAG)  
+- Embedding-based retrieval  
+- Detailed scoring for Connection / Intensity / Materialization  
+- Transformation of narrative inputs into high-precision task objects  
+- Event hooks for Expo App, Telegram Bot, and static sites  
+- Deployable via Docker to GCP / Azure  
 
-⸻
+---
 
-🟩 3. Gmail → Telegram Automation Bot
+## 🟩 3. Gmail → Telegram Automation Bot
 
-A lightweight automation module enabling:
-	•	Extracting email content using Gmail API
-	•	NLP summarization and intent classification
-	•	Routing actionable content to Telegram
-	•	Triggering MCP workflows
-	•	Deployment via Docker containers on GCP
+A lightweight automation service providing:
 
-⸻
+- Gmail API integration  
+- NLP summarization and classification  
+- Telegram message routing  
+- Workflow triggers for MCP task processing  
+- Dockerized deployment for serverless environments  
 
-🟫 4. Static Site Builder Projects
+---
 
-Practical client-facing deployments.
+## 🟫 4. Static Site Builder Projects
 
-Kabalen Toronto
-	•	Responsive static HTML/CSS site
-	•	Modular JS slideshow
-	•	Optimized asset layout
+### **Kabalen Toronto**
+- Responsive HTML/CSS layout  
+- Clean asset pipeline  
+- Lightweight JS slideshow component  
 
-BCBP International Modernization
-	•	WordPress containerized for Cloud Run
-	•	Cloud SQL + VPC Secure Connectivity
-	•	GitHub Actions CI/CD
-	•	Development → Stage → Production environment framework
+### **BCBP International Modernization**
+- WordPress containerization via Cloud Run  
+- Cloud SQL + secure VPC  
+- CI/CD via GitHub Actions  
+- Multi-environment `.env` configuration  
 
-⸻
+---
 
-🛠️ Technical Skills
+# 🛠️ Tech Stack Expertise
 
-Frontend: React, React Native, Expo, Next.js, Angular, TypeScript
-Backend: Node.js, Express, Python, FastAPI, GraphQL
-AI / Data: ChatGPT API, Hume Voice Models, ChromaDB, IBM RAG
-Cloud: GCP (Cloud Run, SQL, VPC, IAM), AWS Amplify, Lambda
-DevOps: Docker, GitHub Actions, Turborepo
-CMS: Adobe AEM, WordPress Headless, OpenText CMS
+**Frontend:** React, React Native, Expo, Next.js, Angular, TypeScript  
+**Backend:** Node.js, Express, Python, FastAPI, GraphQL  
+**AI / Data:** ChatGPT API, Hume Voice, IBM RAG, ChromaDB  
+**Cloud:** GCP (Cloud Run, SQL, IAM, VPC), AWS Amplify, Lambda  
+**DevOps:** Docker, GitHub Actions, Turborepo  
+**CMS:** Adobe AEM, WordPress Headless, OpenText  
 
-⸻
+---
 
-💼 Career Experience (Condensed)
+# 💼 Career Experience (Condensed)
 
-Bot Digital Works – Project Lead (2024–2025)
-	•	Developed MCP-based multi-agent backend
-	•	Built RAG system for personalized content flows
-	•	Modernized BCBP infrastructure on Cloud Run
-	•	Created cross-platform Expo UI system
+### **Bot Digital Works – Project Lead (2024–2025)**
+- Developed MCP multi-agent backend system  
+- Built RAG pipelines for personalized content  
+- Modernized BCBP ecosystem on Cloud Run  
+- Engineered cross-platform Expo UI libraries  
 
-Accenture Song – UI/UX Engineer (2023)
-	•	Productized GenAI concepts
-	•	Built secure Cognito + Amplify pipelines
-	•	Designed reusable component/token systems
+### **Accenture Song – UI/UX Engineer (2023)**
+- Productized GenAI prototypes into stable demos  
+- Developed Cognito + Amplify integration  
+- Built reusable UI component tokens  
 
-TD Bank – AEM Specialist / Frontend (2022)
-	•	Built microfrontend gateway
-	•	Engineered AEM DAM workflows
-	•	Implemented AI-driven asset tagging
+### **TD Bank – AEM Specialist / Frontend (2022)**
+- Architected microfrontend gateway  
+- Engineered DAM workflows and AI tagging operations  
 
-KeyBank – AI Chatbot Backend (2021)
-	•	Created GraphQL API wrappers
-	•	Integrated Google NLP for higher intent accuracy
+### **KeyBank – AI Chatbot Backend (2021)**
+- Implemented GraphQL API wrappers  
+- Integrated Google NLP for chatbot intent accuracy  
 
-IRCC – Accessibility Developer (2020)
-	•	Built automated WCAG compliance tools
-	•	Designed secure identity workflows
+### **IRCC – Accessibility Developer (2020)**
+- Automated WCAG 2.1 compliance workflows  
+- Developed secure identity-verification systems  
 
-⸻
+---
 
-🎓 Education & Certifications
-	•	B.Sc. Civil Engineering — University of San Carlos
-	•	Humber College — Software Development
-	•	Certifications:
-	•	Adobe AEM
-	•	OpenText
-	•	Google Cloud ACE
-	•	AODA Accessibility
+# 🎓 Education & Credentials
 
-⸻
+- **B.Sc. Civil Engineering** — University of San Carlos  
+- Humber College — Software Development  
+- Certifications:  
+  - Adobe AEM  
+  - SAP OpenText  
+  - Google Cloud ACE  
+  - AODA Accessibility  
